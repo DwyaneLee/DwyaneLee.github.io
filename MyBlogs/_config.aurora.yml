@@ -61,8 +61,8 @@ theme:
   feature: true
   gradient:
     color_1: '#24c6dc'
-    color_2: '#5433ff'
-    color_3: '#ff0099'
+    color_2: '#8BFAC0'
+    color_3: '#60FFFF'
 
 #! ---------------------------------------------------------------
 #! Social Configs
