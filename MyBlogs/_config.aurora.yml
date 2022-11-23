@@ -12,7 +12,7 @@ site:
   subtitle: DwyaneLee's Blog
   author: DwyaneLee
   nick: '*:ஐ٩(๑´ᵕ`)۶ஐ:* 学习使我进步'
-  description:
+  description: '用舍由时 行藏在我'
   link: '/'
   language: en
   multi_language: true
@@ -30,14 +30,14 @@ site:
 #！ @docs https://aurora.tridiamond.tech/guide/authors.html
 #! ---------------------------------------------------------------
 authors:
-  ##! example
-  # TriDiamond:
-  #   name: TriDiamond
-  #   avatar: https://up.enterdesk.com/edpic_source/44/ff/3d/44ff3d6bd2819d524facfcc33205d4cd.jpg
-  #   link: https://github.com/TriDiamond
-  #   description: 'Think like an artist, code like an artisan.'
-  #   socials:
-  #     github: https://tridiamond.tech
+  #! example
+   DwyaneLee:
+     name: DwyaneLee
+     avatar: https://raw.githubusercontent.com/DwyaneLe/template/main/img/head_img.jpg
+     link: https://github.com/DwyaneLee
+     description: '用舍由时 行藏在我'
+     socials:
+       github: https://DwyaneLee.github.io
 
 #! ---------------------------------------------------------------
 #! Menu Configs
