@@ -17,6 +17,9 @@ cover: /img/wallhaven-green_shark.jpg
 - 本文将介绍百度安全验证的原理，以及如何使用Python进行逆向，通过逆向js实现验证。
 - [百度旋转验证地址](https://wappass.baidu.com/static/captcha/tuxing.html?&logid=11127834097395060321&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3DTCL%25E7%25A9%25BA%25E8%25B0%2583%26fenlei%3D256%26oq%3DT%252526lt%25253BL%2525E7%2525A9%2525BA%2525E8%2525B0%252583%2525E5%2525AE%252589%2525E8%2525A3%252585%26rsv_pq%3Dcbfaf83c00055420%26rsv_t%3D4ebe1EPjGBTNFE0M5z%252F%252B8tKVCaYp%252B%252Fd1V%252FQW49ZbgCdWHXDFZ79JUL4TsJs%26rqlang%3Dcn%26rsv_enter%3D0%26rsv_dl%3Dtb%26rsv_btype%3Dt%26inputT%3D1051%26gpc%3Dstf%253D1654569764%252C1670294564%257Cstftype%253D2%26tfflag%3D1&signature=29e3f4de1557982e420aa3db02618e5f&timestamp=1670294566)
 
+> 这里使用github上面的大佬d4nst上传的模型来识别旋转图片的角度
+>> [大佬的github地址](https://github.com/d4nst/RotNet/) 
+
 ---
 
   请求访问失败返回的重定向链接，获取到参数**ak、backurl**
