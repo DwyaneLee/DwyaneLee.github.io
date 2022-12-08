@@ -106,11 +106,11 @@ site_meta:
 gitalk:
   enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
-  repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
+  clientID: '4001b48ad1e1f4387173'
+  clientSecret: '3b101e4bed7e323f0d329b5f3b828c0cd189db89'
+  repo: 'gitalk-comment'
+  owner: 'DwyaneLee'
+  admin: ['DwyaneLee']
   id: uid
   language: en
   distractionFreeMode: true
